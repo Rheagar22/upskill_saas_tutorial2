@@ -39,6 +39,11 @@ h1, h2, h3 {
   border: none;
 }
 
+.navbar-brand {
+  font-family: 'Open San', sans-serif;
+  font-weight: 800;
+}
+
 // Homepage Styles
 .navbar-default .navbar-brand,
 .navbar-default .navbar-nav > li > a {
